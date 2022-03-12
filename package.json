@@ -18,6 +18,7 @@
     "auto-reload-brunch": ">= 1.0 < 1.9",
     "babel": "^6.3.26",
     "babel-brunch": "^6.0.0",
+    "brunch": "^4.0.0",
     "clean-css-brunch": ">= 1.0 < 1.9",
     "css-brunch": ">= 1.0 < 1.9",
     "jade-brunch": "^2.0.0",
