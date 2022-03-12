@@ -37,12 +37,6 @@ First, download / setup the dependencies:
 npm install
 ```
 
-Next get a hold of [brunch](http://brunch.io/), the build tool used for this project. To install globally:
-
-```
-npm install -g brunch
-```
-
 Then to start compiling + watching files run
 
 ```
